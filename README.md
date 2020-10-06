@@ -1,5 +1,5 @@
 # EPE-Machine-Learning
-A collection of neural networks applied to particle physics datasets done under the supervision of Professor Shih-Chieh Hsu at the University of Washington. We seek to deploy Deep Learning jet tagging algorithms into Reproducible Open Benchmarks (ROB) framework for automating performance evaluations of different models.
+A collection of neural networks applied to particle physics datasets by the undergraduate EPE Machine Learning team under the supervision of Professor Shih-Chieh Hsu at the University of Washington. We seek to deploy Deep Learning jet tagging algorithms into Reproducible Open Benchmarks (ROB) framework for automating performance evaluations of different models.
 ## Package Dependencies
 - numpy
 - pandas
