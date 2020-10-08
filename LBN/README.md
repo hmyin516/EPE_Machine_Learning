@@ -3,6 +3,7 @@ Implementation of the Lorentz Boost Network [paper](https://arxiv.org/pdf/1812.0
 
 ## Data files for training
 **zenodo**: Raw top tagging data files from the [Top Quark Tagging Reference Dataset](https://zenodo.org/record/2603256)
+
 **five-classifier dataset (with restricted access)**: Raw five classifier datasets from [five-class dataset](https://cernbox.cern.ch/index.php/s/AgzB93y3ac0yuId?path=%2Ffixed)
 ### Package dependencies
 - Python3
