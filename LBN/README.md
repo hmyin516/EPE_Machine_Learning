@@ -11,8 +11,7 @@ Implementation of the Lorentz Boost Network [paper](https://arxiv.org/pdf/1812.0
 - numpy
 - pandas
 - cudatoolkit
-- TensorFLow
-- torchvision
+- TensorFlow
 ## Installing LBN and creating an enviroment
 Create a conda environment and install necessary packages:
 ```
