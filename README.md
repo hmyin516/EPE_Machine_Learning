@@ -16,7 +16,7 @@ A collection of neural networks applied to particle physics datasets by the unde
 Sample code for feature exploration of Monte Carlo simulated dataset using Pythia. Both high level features and low level features are explored.
 
 ## LBN
-Lorentz Boost Network, [paper](https://arxiv.org/abs/1812.09722) and [repo](https://github.com/riga/LBN). We trained the network using convert.ipynb and train.ipynb with the [Top Quark Tagging Reference Dataset](https://zenodo.org/record/2603256#.X1liUHlKguU).  
+Lorentz Boost Network, [paper](https://arxiv.org/abs/1812.09722) and [repo](https://github.com/riga/LBN). 
 See the [LBN readme](./LBN/README.md) for more information.
 ## LGN
 Lorentz Group Network, [paper](https://arxiv.org/abs/2006.04780) and [repo](https://github.com/fizisist/LorentzGroupNetwork). We trained the network using train_lgn.py with the [Top Quark Tagging Reference Dataset](https://zenodo.org/record/2603256#.X1liUHlKguU).  
