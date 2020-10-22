@@ -25,6 +25,6 @@ pip install LBN
 ## Top Tagging
 The top-tagging `train/LBN_TopTagging.ipynb` uses the Lorentz Boost Network to classify a top tagging dataset.
 ## 5-Classifier
-Run convert.py with directory of downloaded five-classifier data files for preprocessing. 
+Run convert.py with directory of downloaded five-classifier data files for preprocessing.  
 `LBN_5Class.ipynb` uses the Lorentz Boost Network to classify a 5 jet dataset.
 
