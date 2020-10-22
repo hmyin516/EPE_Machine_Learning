@@ -17,8 +17,7 @@ Sample code for feature exploration of Monte Carlo simulated dataset using Pythi
 
 ## LBN
 Lorentz Boost Network, [paper](https://arxiv.org/abs/1812.09722) and [repo](https://github.com/riga/LBN). We trained the network using convert.ipynb and train.ipynb with the [Top Quark Tagging Reference Dataset](https://zenodo.org/record/2603256#.X1liUHlKguU).
-
+See the [LBN readme](./LBN/README.md) for more information.
 ## LGN
 Lorentz Group Network, [paper](https://arxiv.org/abs/2006.04780) and [repo](https://github.com/fizisist/LorentzGroupNetwork). We trained the network using train_lgn.py with the [Top Quark Tagging Reference Dataset](https://zenodo.org/record/2603256#.X1liUHlKguU).
-
-Currently this is the most complete and organized directory. See the [LGN readme](./LGN/README.md) for more information.
+See the [LGN readme](./LGN/README.md) for more information.
